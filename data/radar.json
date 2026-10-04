@@ -1,0 +1,1756 @@
+{
+  "schemaVersion": 1,
+  "brand": "SportFund Radar",
+  "title": "Možnosti pro hokej Vlašim",
+  "asOf": "2026-10-04",
+  "generatedAt": "2026-10-04T15:51:51+00:00",
+  "method": "Pravidlové třídění bez placeného AI API",
+  "sources": [
+    {
+      "id": "nsa",
+      "name": "Národní sportovní agentura",
+      "category": "Dotace",
+      "url": "https://nsa.gov.cz/"
+    },
+    {
+      "id": "nsa-klub",
+      "name": "Můj klub 2026",
+      "category": "Dotace",
+      "url": "https://nsa.gov.cz/dotace/vyzva-8-2026-muj-klub-2026/"
+    },
+    {
+      "id": "mesto",
+      "name": "Město Vlašim",
+      "category": "Dotace",
+      "url": "https://www.mesto-vlasim.cz/"
+    },
+    {
+      "id": "kraj",
+      "name": "Středočeský kraj",
+      "category": "Dotace",
+      "url": "https://stredoceskykraj.cz/web/dotace/dotace-ve-sportu-volnocasovych-aktivitach-a-skolstvi"
+    },
+    {
+      "id": "hokej",
+      "name": "Český hokej — dotace",
+      "category": "Vybavení",
+      "url": "https://ceskyhokej.cz/rozcestnik-dotace"
+    },
+    {
+      "id": "nabor",
+      "name": "Pojď hrát hokej",
+      "category": "Vybavení",
+      "url": "https://ceskyhokej.cz/pojd-hrat-hokej"
+    },
+    {
+      "id": "treneri",
+      "name": "Sportovní střediska",
+      "category": "Vzdělávání",
+      "url": "https://ceskyhokej.cz/sportovni-strediska"
+    },
+    {
+      "id": "mas",
+      "name": "MAS Blaník",
+      "category": "Dotace",
+      "url": "https://www.masblanik.cz/"
+    },
+    {
+      "id": "ddm",
+      "name": "Domeček Vlašim",
+      "category": "Spolupráce",
+      "url": "https://www.mddmvlasim.cz/"
+    },
+    {
+      "id": "ddm-partneri",
+      "name": "Partneři Domečku Vlašim",
+      "category": "Firmy",
+      "url": "https://www.mddmvlasim.cz/sponzori/"
+    },
+    {
+      "id": "erasmus",
+      "name": "Dům zahraniční spolupráce",
+      "category": "Vzdělávání",
+      "url": "https://www.dzs.cz/en/node/1559"
+    },
+    {
+      "id": "cez",
+      "name": "Nadace ČEZ — Podpora regionů",
+      "category": "Nadace",
+      "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/podpora-regionu-110046"
+    },
+    {
+      "id": "cez-novinky",
+      "name": "Nadace ČEZ",
+      "category": "Nadace",
+      "url": "https://www.nadacecez.cz/"
+    },
+    {
+      "id": "via",
+      "name": "Nadace Via",
+      "category": "Nadace",
+      "url": "https://www.nadacevia.cz/nabidka-programu/misto-kde-zijeme/"
+    },
+    {
+      "id": "vzp",
+      "name": "VZP — děti a pohyb",
+      "category": "Rodiny",
+      "url": "https://www.vzp.cz/pojistenci/vyhody-a-prispevky/odmena-za-prevenci/pohyb-a-dentalni-hygiena/deti"
+    },
+    {
+      "id": "kaufland",
+      "name": "Kaufland — Puky pomáhají",
+      "category": "Soutěže",
+      "url": "https://www.k-hockey.cz/pukypomahaji"
+    },
+    {
+      "id": "kaufland-2026",
+      "name": "Kaufland — ročník 2026",
+      "category": "Soutěže",
+      "url": "https://spolecnost.kaufland.cz/pro-novinare/newsroom/2026/zari/kaufland-startuje-4.-rocnik-projektu-puky-pomahaji.-o-rozdeleni-11-5-milionu-korun-opet-rozhodnou-zakaznici"
+    },
+    {
+      "id": "vlasim",
+      "name": "Hokej Vlašim",
+      "category": "Profil",
+      "url": "https://hcvlasim.cz/"
+    },
+    {
+      "id": "vlasim-klub",
+      "name": "Vlašim — Můj klub",
+      "category": "Profil",
+      "url": "https://hcvlasim.cz/text/klub2026"
+    },
+    {
+      "id": "vlasim-erasmus",
+      "name": "Vlašim — Erasmus 2026",
+      "category": "Profil",
+      "url": "https://hcvlasim.cz/text/complexcore"
+    },
+    {
+      "id": "historie-partneru",
+      "name": "Vlašim — historie partnerů",
+      "category": "Profil",
+      "url": "https://www.ivlasim.cz/index.php/hokejova-sezona-202324-klepe-na-dvere"
+    },
+    {
+      "id": "niersberger",
+      "name": "Niersberger — sponzoring",
+      "category": "Firmy",
+      "url": "https://www.niersberger.cz/sponzorujeme/"
+    },
+    {
+      "id": "benea",
+      "name": "BENEA",
+      "category": "Firmy",
+      "url": "https://www.benea-shop.cz/cz/kontakt"
+    },
+    {
+      "id": "fotbal",
+      "name": "Fotbal Vlašim — partneři",
+      "category": "Jiné sporty",
+      "url": "https://www.fcsbvlasim.cz/klub/partneri/"
+    },
+    {
+      "id": "kladno",
+      "name": "Hokej Kladno",
+      "category": "Jiné kluby",
+      "url": "https://rytirikladno.cz/"
+    },
+    {
+      "id": "hokej-zpravy",
+      "name": "Hokej.cz",
+      "category": "Jiné kluby",
+      "url": "https://www.hokej.cz/"
+    },
+    {
+      "id": "kuklenska",
+      "name": "SK Kuklenská — dárcovství",
+      "category": "Crowdfunding",
+      "url": "https://www.darujme.cz/skkuklenska"
+    },
+    {
+      "id": "aikido",
+      "name": "Aikido — dárcovská kampaň",
+      "category": "Jiné sporty",
+      "url": "https://www.darujme.cz/projekt/1212287"
+    },
+    {
+      "id": "krouzky",
+      "name": "Darujeme kroužky dětem",
+      "category": "Rodiny",
+      "url": "https://www.darujme.cz/darujemekrouzky"
+    },
+    {
+      "id": "cus",
+      "name": "Středočeská ČUS",
+      "category": "Dotace",
+      "url": "https://sck.cuscz.cz/"
+    }
+  ],
+  "partners": [
+    {
+      "name": "Sellier & Bellot",
+      "status": "Dosavadní partner — historický doklad",
+      "sourceId": "historie-partneru",
+      "note": "Uvedeno pro sezonu 2023/24. Současný rozsah potvrdit.",
+      "aliases": [
+        "sellier",
+        "bellot"
+      ]
+    },
+    {
+      "name": "Město Vlašim",
+      "status": "Dosavadní partner — historický doklad",
+      "sourceId": "historie-partneru",
+      "note": "Není nový kontakt; ověřit současnou smlouvu.",
+      "aliases": [
+        "město vlašim"
+      ]
+    },
+    {
+      "name": "MěDDM Vlašim",
+      "status": "Dosavadní partner — historický doklad",
+      "sourceId": "historie-partneru",
+      "note": "Navazující spolupráce, nikoli nový sponzor.",
+      "aliases": [
+        "ddm",
+        "domeček"
+      ]
+    },
+    {
+      "name": "Národní sportovní agentura",
+      "status": "Doložený poskytovatel v roce 2026",
+      "sourceId": "vlasim-klub",
+      "note": "Klub uvádí 571 200 Kč; nezapočítáváno do nového potenciálu.",
+      "aliases": [
+        "národní sportovní agentura",
+        "nsa"
+      ]
+    },
+    {
+      "name": "Erasmus+ Sport",
+      "status": "Doložený využitý program",
+      "sourceId": "vlasim-erasmus",
+      "note": "Vlašim uvádí stáž v Rakousku v roce 2026.",
+      "aliases": [
+        "erasmus"
+      ]
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "cez-regiony",
+      "title": "Dostat více dětí na led",
+      "category": "Nadace",
+      "status": "open",
+      "score": 92,
+      "grade": "A",
+      "amount": {
+        "min": 50000,
+        "max": 150000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": "2026-11-12",
+      "deadlineLabel": "Uzávěrka žádostí",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Projekt dostupného hokeje zapadá do podpory sportu a mládeže.",
+      "next": "Připravit rozpočet půjčovny výstroje a náboru pro děti.",
+      "fact": "Podpora regionů přijímá žádosti do 12. 11. 2026; maximální částka není stanovena.",
+      "sourceIds": [
+        "cez"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "puky",
+      "title": "Puky pomáhají: ověřit zapojení Vlašimi",
+      "category": "Soutěže",
+      "status": "verify",
+      "score": 90,
+      "grade": "A",
+      "amount": null,
+      "effort": "Nízká",
+      "potential": "Vysoký",
+      "deadline": "2026-11-10",
+      "deadlineLabel": "Konec hlasování, nikoli registrace",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Hokejová soutěž přináší finanční i věcnou podporu. Účast Vlašimi není potvrzená.",
+      "next": "Ověřit účast a kategorii klubu; potom připravit zapojení fanoušků.",
+      "fact": "Ročník 2026 má 158 klubů a hlasování do 10. 11. 2026. Nejde o termín registrace.",
+      "sourceIds": [
+        "kaufland-2026",
+        "kaufland"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "svaz",
+      "title": "Svazová podpora týmů a trenérů",
+      "category": "Vybavení",
+      "status": "verify",
+      "score": 87,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Přímá vazba na mládežnické týmy a trenérské licence.",
+      "next": "Porovnat skutečné zařazení týmů s aktuálními podmínkami svazu.",
+      "fact": "Svaz zveřejňuje podporu mládežnických týmů a trenérů; konkrétní nárok Vlašimi neověřen.",
+      "sourceIds": [
+        "hokej",
+        "treneri"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "muj-klub-dalsi",
+      "title": "Můj klub: připravit další ročník",
+      "category": "Dotace",
+      "status": "watch",
+      "score": 88,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": null,
+      "deadlineLabel": "Další ročník nepotvrzen",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Vlašim už má s programem doloženou zkušenost.",
+      "next": "Zkontrolovat evidenci mládeže a trenérů; hlídat další vyhlášení NSA.",
+      "fact": "Klub uvádí 571 200 Kč v roce 2026. Příjem žádostí 2026 skončil 2. 2. 2026; další ročník nepotvrzen.",
+      "sourceIds": [
+        "nsa",
+        "nsa-klub",
+        "vlasim-klub"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "existing": true
+    },
+    {
+      "id": "mesto-plan",
+      "title": "Vlašim: navázat na městskou podporu",
+      "category": "Dotace",
+      "status": "watch",
+      "score": 85,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Město je veřejně uváděný dosavadní partner.",
+      "next": "Připravit přehled přínosu mládeže a potřeb pro jednání o rozpočtu.",
+      "fact": "Partnerství doloženo pro sezonu 2023/24; aktuální smlouva a výzva neověřeny.",
+      "sourceIds": [
+        "mesto",
+        "historie-partneru"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "existing": true
+    },
+    {
+      "id": "kraj-sport",
+      "title": "Krajský fond sportu: hlídat další výzvu",
+      "category": "Dotace",
+      "status": "watch",
+      "score": 82,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Vlašim spadá do Středočeského kraje.",
+      "next": "Ověřit aktuální program, termíny, způsobilost a spoluúčast.",
+      "fact": "Kraj provozuje sportovní dotační rozcestník. Otevřená vhodná výzva zatím nepotvrzena.",
+      "sourceIds": [
+        "kraj",
+        "cus"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "erasmus-navazani",
+      "title": "Další zkušenosti pro trenéry v Evropě",
+      "category": "Vzdělávání",
+      "status": "watch",
+      "score": 84,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Vlašim již využívá Erasmus+, v roce 2026 pro stáž v Rakousku.",
+      "next": "Připravit navazující plán vzdělávání a vybrat hostitelský klub.",
+      "fact": "Erasmus+ Sport podporuje mobility trenérů. Pro Vlašim jde o pokračování, nikoli nový objev.",
+      "sourceIds": [
+        "erasmus",
+        "vlasim-erasmus"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "existing": true
+    },
+    {
+      "id": "vystroj",
+      "title": "Výstroj, která otevře hokej novým dětem",
+      "category": "Vybavení",
+      "status": "verify",
+      "score": 85,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Půjčovna výstroje snižuje vstupní náklady rodinám.",
+      "next": "Sepsat chybějící velikosti a ověřit aktuální příděl od svazu.",
+      "fact": "Pojď hrát hokej zahrnuje podporu výstroje. Příděl Vlašimi zatím neověřen.",
+      "sourceIds": [
+        "nabor",
+        "vlasim"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "vzp-rodiny",
+      "title": "Až 2 000 Kč rodinám na dětský sport",
+      "category": "Rodiny",
+      "status": "open",
+      "score": 80,
+      "grade": "A",
+      "amount": null,
+      "effort": "Nízká",
+      "potential": "Vysoký",
+      "deadline": "2026-12-31",
+      "deadlineLabel": "Online podání VZP",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Pomoc s dostupností příspěvků; peníze získává pojištěnec, nikoli klub.",
+      "next": "Rodičům připravit potvrzení o úhradě a odkaz na Moje VZP.",
+      "fact": "Společný limit na sport a dentální hygienu je 2 000 Kč. Platí stáří dokladů i další podmínky.",
+      "sourceIds": [
+        "vzp"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "amountNote": "Ověřený limit až 2 000 Kč na pojištěnce. Není příjem klubu."
+    },
+    {
+      "id": "via-komunita",
+      "title": "Komunitní benefice kolem hokeje",
+      "category": "Nadace",
+      "status": "verify",
+      "score": 66,
+      "grade": "B",
+      "amount": {
+        "min": 5000,
+        "max": 20000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Vhodný je nový komunitní projekt, který zapojí sousedy.",
+      "next": "Konzultovat projekt s nadací; odlišit ho od běžného provozu a tradičního turnaje.",
+      "fact": "Menší granty do 20 000 Kč jsou průběžné do vyčerpání prostředků. Vyžadují komunitní a nekomerční přínos.",
+      "sourceIds": [
+        "via"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "mas-projekt",
+      "title": "MAS Blaník: spojit klub, obec a komunitu",
+      "category": "Dotace",
+      "status": "idea",
+      "score": 64,
+      "grade": "B",
+      "amount": null,
+      "effort": "Vyšší",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Místní síť může pomoci s přípravou společného projektu.",
+      "next": "Konzultovat jednostránkový záměr a územní způsobilost s MAS.",
+      "fact": "Přímá aktuální výzva na běžný hokej nebyla potvrzena.",
+      "sourceIds": [
+        "mas"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "ddm-spoluprace",
+      "title": "Rozšířit spolupráci s Domečkem",
+      "category": "Spolupráce",
+      "status": "idea",
+      "score": 78,
+      "grade": "B",
+      "amount": {
+        "min": 10000,
+        "max": 40000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "DDM je historicky uváděný partner; prostor pro navazující aktivity.",
+      "next": "Propočítat společný kroužek nebo příměstský program včetně personálu a ledu.",
+      "fact": "Partnerství veřejně doloženo. Nový program a čistý výnos jsou návrh.",
+      "sourceIds": [
+        "ddm",
+        "historie-partneru"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "existing": true
+    },
+    {
+      "id": "infrastruktura",
+      "title": "Úspornější stadion, silnější zázemí",
+      "category": "Infrastruktura",
+      "status": "watch",
+      "score": 62,
+      "grade": "B",
+      "amount": null,
+      "effort": "Vyšší",
+      "potential": "Dlouhodobý",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Investice musí vzniknout s vlastníkem či provozovatelem sportoviště.",
+      "next": "S městem ověřit vlastnictví, energetické úspory a připravenost projektu.",
+      "fact": "Sledujeme investiční zdroje; konkrétní vhodná otevřená výzva není potvrzená.",
+      "sourceIds": [
+        "nsa",
+        "mesto",
+        "cez-novinky"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "niersberger-napad",
+      "title": "Partner se zkušeností s regionálním sportem",
+      "category": "Firmy",
+      "status": "idea",
+      "score": 77,
+      "grade": "B",
+      "amount": {
+        "min": 20000,
+        "max": 80000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Niersberger veřejně uvádí podporu basketbalu v Benešově i hokejové Sparty.",
+      "next": "Ověřit dosavadní vztah s Vlašimí, poté připravit nabídku projektu pro mládež.",
+      "fact": "Podpora jiných sportů je doložená; zájem firmy o Vlašim a současný vztah neověřen.",
+      "sourceIds": [
+        "niersberger"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "company": "Niersberger",
+      "relationship": "unknown"
+    },
+    {
+      "id": "benea-napad",
+      "title": "Svačiny na turnaj od firmy z Benešova",
+      "category": "Firmy",
+      "status": "idea",
+      "score": 65,
+      "grade": "B",
+      "amount": {
+        "min": 5000,
+        "max": 15000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Nízká",
+      "potential": "Věcná podpora",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Regionální potravinářská firma může nabídnout věcné plnění.",
+      "next": "Prověřit existující vztahy a připravit malý pilot občerstvení turnaje.",
+      "fact": "BENEA má sídlo v Benešově. Sponzoring Vlašimi je pouze návrh.",
+      "sourceIds": [
+        "benea"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "company": "BENEA",
+      "relationship": "unknown"
+    },
+    {
+      "id": "ddm-sit",
+      "title": "Regionální síť přes partnery DDM",
+      "category": "Firmy",
+      "status": "idea",
+      "score": 67,
+      "grade": "B",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Seznam DDM uvádí například Respo Vlašim, Rabbit CZ a Hobysport.",
+      "next": "Prověřit duplicity s partnery klubu a připravit nabídku pro jednu firmu.",
+      "fact": "Podpora DDM není závazek podpořit hokej ani potvrzení nového kontaktu.",
+      "sourceIds": [
+        "ddm-partneri"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "relationship": "unknown"
+    },
+    {
+      "id": "sb-vztah",
+      "title": "Rozvinout stávající firemní partnerství",
+      "category": "Firmy",
+      "status": "idea",
+      "score": 81,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Sellier & Bellot je historicky uváděný hlavní partner, nikoli nový kontakt.",
+      "next": "S klubem potvrdit současný rozsah a hledat samostatný projekt mládeže.",
+      "fact": "Partnerství doloženo pro sezonu 2023/24; dnešní smluvní rozsah nepotvrzen.",
+      "sourceIds": [
+        "historie-partneru"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "company": "Sellier & Bellot",
+      "relationship": "existing",
+      "existing": true
+    },
+    {
+      "id": "crowdfunding",
+      "title": "Klub 100: pravidelní dárci pro mládež",
+      "category": "Crowdfunding",
+      "status": "idea",
+      "score": 75,
+      "grade": "B",
+      "amount": {
+        "min": 30000,
+        "max": 120000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Střední",
+      "potential": "Dlouhodobý",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Příklady jiných sportů ukazují jednorázové i měsíční dary.",
+      "next": "Připravit transparentní cíl: 50 dárců × 100 Kč měsíčně = 60 000 Kč ročně před poplatky.",
+      "fact": "Sportovní organizace mají veřejné dárcovské kampaně. Výnos Vlašimi je modelový scénář.",
+      "sourceIds": [
+        "kuklenska",
+        "aikido"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "inspirace-basket",
+      "title": "Tohle jde přenést z benešovského basketbalu",
+      "category": "Inspirace",
+      "status": "idea",
+      "score": 73,
+      "grade": "B",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Podpora jiného sportu naznačuje zájem firmy o region.",
+      "next": "Převzít princip: konkrétní projekt, přínos pro děti a nabídka protihodnoty.",
+      "fact": "Niersberger uvádí BC Benešov mezi podporovanými. Přenos do hokeje je doporučení.",
+      "sourceIds": [
+        "niersberger"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "inspirace-fotbal",
+      "title": "Co si vzít z financování místního fotbalu",
+      "category": "Inspirace",
+      "status": "idea",
+      "score": 69,
+      "grade": "B",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Fotbal veřejně kombinuje partnery a podporu NSA.",
+      "next": "Nabídnout partnerům jasně oddělený hokejový projekt a přehled výdajů.",
+      "fact": "Fotbal Vlašim děkuje NSA za podporu. Výše zde nebyla ověřena.",
+      "sourceIds": [
+        "fotbal"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "kempy",
+      "title": "Prázdninový kemp jako vlastní příjem",
+      "category": "Spolupráce",
+      "status": "idea",
+      "score": 65,
+      "grade": "B",
+      "amount": {
+        "min": 15000,
+        "max": 45000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Trenéři, rodiče a místní partner mohou připravit malý kemp.",
+      "next": "Spočítat čistý přínos po nájmu, mzdách, stravě a pojištění; ověřit poptávku.",
+      "fact": "Podnikatelský námět, nikoli dotace. Rozmezí je odhad čistého přínosu, ne obratu.",
+      "sourceIds": [
+        "ddm",
+        "vlasim"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "sluzby-skoly",
+      "title": "Bruslení pro školy a veřejnost",
+      "category": "Spolupráce",
+      "status": "idea",
+      "score": 62,
+      "grade": "B",
+      "amount": {
+        "min": 10000,
+        "max": 30000,
+        "kind": "estimate",
+        "note": "Pracovní odhad pro jeden projekt; nikoli schválená částka."
+      },
+      "effort": "Střední",
+      "potential": "Doplňkový",
+      "deadline": null,
+      "deadlineLabel": "Termín ověřit",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": false,
+      "why": "Zkušenosti s pohybovými programy lze nabídnout školám.",
+      "next": "S provozovatelem stadionu a školou ověřit kapacitu, cenu a zájem.",
+      "fact": "Námět na službu. Objednávka, příjem ani volný led nejsou potvrzené.",
+      "sourceIds": [
+        "vlasim",
+        "ddm"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ]
+    },
+    {
+      "id": "muj-klub-2026",
+      "title": "Můj klub 2026: již získaná podpora",
+      "category": "Historie",
+      "status": "awarded",
+      "score": 95,
+      "grade": "A",
+      "amount": null,
+      "effort": "Střední",
+      "potential": "Vysoký",
+      "deadline": "2026-02-02",
+      "deadlineLabel": "Ukončený příjem žádostí",
+      "firstFound": "2026-10-04",
+      "lastChecked": "2026-10-04T15:51:51+00:00",
+      "verifiedAt": "2026-10-04",
+      "evidence": "Ověřený zdroj; vhodnost je odhad",
+      "recurring": true,
+      "why": "Základ pro další projekty a prevenci dvojího financování.",
+      "next": "Udržet přehled použití peněz a oddělit další rozpočty.",
+      "fact": "Klub na veřejném webu uvádí získaných 571 200 Kč.",
+      "sourceIds": [
+        "vlasim-klub",
+        "nsa-klub"
+      ],
+      "checklist": [
+        "Ověřit aktuální podmínky v původním zdroji.",
+        "Potvrdit způsobilost a souběh s již čerpanou podporou.",
+        "Připravit rozpočet, odpovědnou osobu a další postup."
+      ],
+      "history": [
+        {
+          "date": "2026-10-04",
+          "event": "Zařazeno při úvodní rešerši veřejných zdrojů."
+        }
+      ],
+      "existing": true,
+      "confirmedAmount": 571200
+    }
+  ],
+  "signals": [],
+  "sourceChecks": [
+    {
+      "sourceId": "nsa",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://nsa.gov.cz/",
+          "hash": "addecddabd86030c85f05d03ffc0f3c5a100f099a4c5c9c544b276541d33191d"
+        },
+        {
+          "url": "https://nsa.gov.cz/dotace-investicni",
+          "hash": "72f548f97d1750655e10939699b9e2d39252692c4a8c9ee98ba3eac42d4fa823"
+        },
+        {
+          "url": "https://nsa.gov.cz/dotace-neinvesticni",
+          "hash": "19f6af47de4e39f892752b1d8dff6e8c7d6c60a7346bccd06e6471a0a625c733"
+        },
+        {
+          "url": "https://nsa.gov.cz/dotace-neinvesticni-parasport",
+          "hash": "d55bb1490aeb1c4534592a2a05be1c668924b85ec9625a1062cad4d095702a1a"
+        },
+        {
+          "url": "https://nsa.gov.cz/praha-hostila-mistrovstvi-sveta-zen-v-softballu-ceske-reprezentantky-smeruji-k-olympijske-vyzve-v-los-angeles-2028",
+          "hash": "cd3eb37d966af7671bb05074bf73e4cb74360f22c3a01e923c1665d08bf75b9e"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "nsa-klub",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://nsa.gov.cz/dotace/vyzva-8-2026-muj-klub-2026",
+          "hash": "c2dffe18098e45e202654221e2fdd7906044dabe2ac5becfebd8b7e08cd5167f"
+        },
+        {
+          "url": "https://nsa.gov.cz/dotace-investicni",
+          "hash": "72f548f97d1750655e10939699b9e2d39252692c4a8c9ee98ba3eac42d4fa823"
+        },
+        {
+          "url": "https://nsa.gov.cz/dotace-neinvesticni",
+          "hash": "19f6af47de4e39f892752b1d8dff6e8c7d6c60a7346bccd06e6471a0a625c733"
+        },
+        {
+          "url": "https://nsa.gov.cz/dotace-neinvesticni-parasport",
+          "hash": "d55bb1490aeb1c4534592a2a05be1c668924b85ec9625a1062cad4d095702a1a"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "mesto",
+      "status": "error",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": null,
+      "pages": [],
+      "errors": [],
+      "error": "robots.txt disallows or could not be verified"
+    },
+    {
+      "sourceId": "kraj",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://stredoceskykraj.cz/web/dotace/dotace-ve-sportu-volnocasovych-aktivitach-a-skolstvi",
+          "hash": "11a5bff4eddc0b9181f2ee738cabfe39789c004ea1078fa67ab2c0d32e24f84e"
+        },
+        {
+          "url": "https://stredoceskykraj.cz/web/dotace/dotace-a-projekty",
+          "hash": "b420c3b558b90647894f02b72d7eae40be3986e5d4a838bd2b6e19435a2d24ed"
+        },
+        {
+          "url": "https://stredoceskykraj.cz/web/dotace/prehled-dotaci-poskytovanych-stredoceskym-krajem",
+          "hash": "8b1e83927de98d21668f45207d62e751d3f0f3be02429c0e3439aa2ee52a52dc"
+        },
+        {
+          "url": "https://stredoceskykraj.cz/web/urad/dotace",
+          "hash": "7fcf858f37f669523d625bd08736fb8bd2eaf2d77d59f9634c5b785fe98e590d"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "hokej",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://ceskyhokej.cz/rozcestnik-dotace",
+          "hash": "a44f3471f35cbc19efea8e7630558b3f6e3b232d589e96d02bbff14c85e73be3"
+        },
+        {
+          "url": "https://ceskyhokej.cz/sportovni-strediska",
+          "hash": "18bbf82d237e171e2a3ea06e8479bb683aec84f3b70e7e1140a21a2e2af05911"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "nabor",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://ceskyhokej.cz/pojd-hrat-hokej",
+          "hash": "5fc51e122f0df45f69496036c2aca0cdc98a20e1a8e40221bd78919bc6e91d56"
+        },
+        {
+          "url": "https://ceskyhokej.cz/sportovni-strediska",
+          "hash": "18bbf82d237e171e2a3ea06e8479bb683aec84f3b70e7e1140a21a2e2af05911"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "treneri",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://ceskyhokej.cz/sportovni-strediska",
+          "hash": "18bbf82d237e171e2a3ea06e8479bb683aec84f3b70e7e1140a21a2e2af05911"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "mas",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.masblanik.cz/",
+          "hash": "ced5710cdd0faf867d6ef0608b643dc12a403df289170726673d8622b08b7b5b"
+        },
+        {
+          "url": "https://www.masblanik.cz/podporene-projekty",
+          "hash": "e3dccba004d6105359cd33baa6b4fc531bfb402ec67724987995ff66f06b7c1a"
+        },
+        {
+          "url": "https://www.masblanik.cz/dotacni-poradenstvi",
+          "hash": "7354dd644377b3cc993581681722e9c4993ccbcc9f4085885d6e5b42fc336839"
+        },
+        {
+          "url": "https://www.masblanik.cz/podpora-cinnosti-mas-blanik",
+          "hash": "cac30ab59a4e03678fdf68fabf0cc8c5c05ef3dd2823fef623387ef6f2afdcd8"
+        },
+        {
+          "url": "https://www.masblanik.cz/mistni-akcni-plan-vzdelavani/pracovni-skupina-pro-podporu-modernich-didaktickych-forem",
+          "hash": "08de816497515a54f043750121e22ce98cd2027179d5a457b20fa0cae02446e6"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "ddm",
+      "status": "error",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": null,
+      "pages": [],
+      "errors": [],
+      "error": "robots.txt disallows or could not be verified"
+    },
+    {
+      "sourceId": "ddm-partneri",
+      "status": "error",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": null,
+      "pages": [],
+      "errors": [],
+      "error": "robots.txt disallows or could not be verified"
+    },
+    {
+      "sourceId": "erasmus",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.dzs.cz/en/node/1559",
+          "hash": "9b9b159bf3971189e5ac680e4b8d09f7cc81de709df30933f112cb04a03412f2"
+        },
+        {
+          "url": "https://www.dzs.cz/en/projects-and-grants",
+          "hash": "a0b44dd8dea7e2089db7aa5b17c8dc833349967725319763c84e06bdd55a4065"
+        },
+        {
+          "url": "https://www.dzs.cz/en/program/erasmus/projects-and-grants",
+          "hash": "6a998de99e34ab266bb02fc471af76539f990952d9cac532d5dea5a0a8118662"
+        },
+        {
+          "url": "https://www.dzs.cz/en/node/1317",
+          "hash": "274748e32d8970d894f44556f39df93821061b1f11196463766f415c8c16b8f1"
+        },
+        {
+          "url": "https://www.dzs.cz/en/node/1318",
+          "hash": "63994a39409557700929401804d5d01cf283c54455b121315b00584b3c0ee553"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "cez",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/podpora-regionu-110046",
+          "hash": "7a05b914499e8477cd621e876795886f7d4eb9d0a360e18cbfaf3affd0b627fe"
+        },
+        {
+          "url": "https://www.nadacecez.cz/",
+          "hash": "1f95f4f86af9213f7699cb5eb57134f60b564a1216b1f8231fe20ffa1b0cdadf"
+        },
+        {
+          "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni",
+          "hash": "0197ef36927b921c0bf6759b13195de750c07236b1a2dd7a8ee37def251eddff"
+        },
+        {
+          "url": "https://www.nadacecez.cz/cs/o-nadaci",
+          "hash": "971fde2675c393dd532bffea3964bb68baaec4ceb436b04040efdfcc8320035f"
+        },
+        {
+          "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/zamestnanecke-granty-110067",
+          "hash": "03cf140200572d10d7cc1d42049777c45f06d43f72241172372467ef735a0f05"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "cez-novinky",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.nadacecez.cz/",
+          "hash": "1f95f4f86af9213f7699cb5eb57134f60b564a1216b1f8231fe20ffa1b0cdadf"
+        },
+        {
+          "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni",
+          "hash": "0197ef36927b921c0bf6759b13195de750c07236b1a2dd7a8ee37def251eddff"
+        },
+        {
+          "url": "https://www.nadacecez.cz/cs/kde-pomahame",
+          "hash": "b75eb3cc0b49a26e7aa68ff44da1dbd3efd7399aa5be64d0e6a9ca32e54e4680"
+        },
+        {
+          "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/podpora-regionu-110046",
+          "hash": "7a05b914499e8477cd621e876795886f7d4eb9d0a360e18cbfaf3affd0b627fe"
+        },
+        {
+          "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/oranzove-hriste-110045",
+          "hash": "a394b6a9f592f5fcd6c332f37c1eb904e91f999b533e46c71fb79bd48fb93f59"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "via",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.nadacevia.cz/nabidka-programu/misto-kde-zijeme",
+          "hash": "330131d9b80c4eea9f09075a9882df171fcf16e8a79a1c8a3d97a235ea921bbf"
+        },
+        {
+          "url": "https://www.nadacevia.cz/nabidka-programu/misto-kde-zijeme/projekty",
+          "hash": "ad0c66170e5e95fa26bf18daa03cb226f4b353c6a785319dd581149a3f737c4a"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "vzp",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.vzp.cz/pojistenci/vyhody-a-prispevky/odmena-za-prevenci/pohyb-a-dentalni-hygiena/deti",
+          "hash": "313a3f4f2b63325d540d669acf17c19591382a51a711e056b0b924eb7d091eac"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "kaufland",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.k-hockey.cz/pukypomahaji",
+          "hash": "be8822640fd96c880851e49a181ecb3ccc4e4cb7e2478f7272931a9cdd6ab50d"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "kaufland-2026",
+      "status": "error",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": null,
+      "pages": [],
+      "errors": [],
+      "error": "robots.txt disallows or could not be verified"
+    },
+    {
+      "sourceId": "vlasim",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://hcvlasim.cz/",
+          "hash": "1bbd8cda236001b2467e834bdffba87e6f6164b259f456f8802dcf6fed505929"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/vystroj",
+          "hash": "d0416ce2f81022977a5eaed6bdddb1601a54780582a098bd0b0d59fba99beea8"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/svedsko",
+          "hash": "3b67ccba1fc7d8b018767ab0311748abea00ac57502022d37162314a07e10e1d"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/svedsko-2",
+          "hash": "9eb00ccc050846666fcea53d3b2b415420fd6a4d2277ea573c83ee4f53a5d5af"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/klub2026",
+          "hash": "533d6738cb707798157e5c14f1ce09aa47a07bcf48cda0e372cf28f019e43b98"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "vlasim-klub",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://hcvlasim.cz/text/klub2026",
+          "hash": "533d6738cb707798157e5c14f1ce09aa47a07bcf48cda0e372cf28f019e43b98"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/vystroj",
+          "hash": "d0416ce2f81022977a5eaed6bdddb1601a54780582a098bd0b0d59fba99beea8"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/svedsko",
+          "hash": "3b67ccba1fc7d8b018767ab0311748abea00ac57502022d37162314a07e10e1d"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/svedsko-2",
+          "hash": "9eb00ccc050846666fcea53d3b2b415420fd6a4d2277ea573c83ee4f53a5d5af"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/complexcore",
+          "hash": "abdaddba7b05a4ddd23134f8831c6dad4d4a820d311aacf7cba39362097d6dfe"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "vlasim-erasmus",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://hcvlasim.cz/text/complexcore",
+          "hash": "abdaddba7b05a4ddd23134f8831c6dad4d4a820d311aacf7cba39362097d6dfe"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/vystroj",
+          "hash": "d0416ce2f81022977a5eaed6bdddb1601a54780582a098bd0b0d59fba99beea8"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/svedsko",
+          "hash": "3b67ccba1fc7d8b018767ab0311748abea00ac57502022d37162314a07e10e1d"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/svedsko-2",
+          "hash": "9eb00ccc050846666fcea53d3b2b415420fd6a4d2277ea573c83ee4f53a5d5af"
+        },
+        {
+          "url": "https://hcvlasim.cz/text/klub2026",
+          "hash": "533d6738cb707798157e5c14f1ce09aa47a07bcf48cda0e372cf28f019e43b98"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "historie-partneru",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.ivlasim.cz/index.php/hokejova-sezona-202324-klepe-na-dvere",
+          "hash": "905dcf94decf1b339acff4285411c290ecea2453798286cd46e8c06d8a1b8b30"
+        },
+        {
+          "url": "https://www.ivlasim.cz/firma/fc-sellier-and-bellot-vlasim-a-s",
+          "hash": "45cd75e6e07b5d899692449519fc70b26e9022147eefa3caf2d5bc3a6a1664be"
+        },
+        {
+          "url": "https://www.ivlasim.cz/firma/vinoteka-miluse",
+          "hash": "c260222bb645251276b46b828c653f144f147cd8cd550a0046b4acae4e603cf4"
+        },
+        {
+          "url": "https://www.ivlasim.cz/firma/kraj-blanickych-rytiru-z-s",
+          "hash": "ca3be20d55438141f720d8715335e93179dd834b66849fcd8202383b90e28b42"
+        },
+        {
+          "url": "https://www.ivlasim.cz/firma/montessori-vlasim-z-s",
+          "hash": "bfb0e9e5502042be30b7a99f27fa2bc720fb071b2a7ec0211389ebd97c085f8b"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "niersberger",
+      "status": "error",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": null,
+      "pages": [],
+      "errors": [],
+      "error": "robots.txt disallows or could not be verified"
+    },
+    {
+      "sourceId": "benea",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.benea-shop.cz/cz/kontakt",
+          "hash": "a90c6ff192e130a0ddda77da79148634c2f2e42026b65ca3873868c9140f82f4"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "fotbal",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.fcsbvlasim.cz/klub/partneri",
+          "hash": "bc56d1cf475d485feea61c7d9dc52a9714b51e81706a5bda03685b9f7b4f6edc"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "kladno",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://rytirikladno.cz/",
+          "hash": "bb7168524d2b1132171367504ae8e2115649b969efaf6a6bd8bfda7760b01c32"
+        },
+        {
+          "url": "https://rytirikladno.cz/partners",
+          "hash": "590ca8778c2126caa84afe0dabf8840496ac6df78b274e6c5b65e6ca71601f9b"
+        },
+        {
+          "url": "https://rytirikladno.cz/text/partnerutkani",
+          "hash": "1411909786c3e8d7cf78e872991a5528218f2be32a6a284b9b53028098defb50"
+        },
+        {
+          "url": "https://rytirikladno.cz/staff-youth",
+          "hash": "074f5bed4447289352e888b59f2aba325a71eed73b337c39e5483ff612b4675c"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "hokej-zpravy",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.hokej.cz/",
+          "hash": "6a106ed8bfc06587cd5360a014a17a76ff77d885593e7dd1051498345237cea4"
+        },
+        {
+          "url": "https://www.hokej.cz/zarijove-ceny-v-extralize-kralem-mesice-frodl-mezi-trenery-zabodoval/5098352",
+          "hash": "440922a1b0e610ea029da4a5c85e5a068a7f21f76dc14a5252786eae06f551ce"
+        },
+        {
+          "url": "https://www.hokej.cz/jako-by-hral-v-lize-tri-roky-trener-blues-byl-s-jirickovym-debutem-spokojeny/5098342",
+          "hash": "5995ef6d9c573609b96eca8aa3a9fe346009894f635a0ebc96d20d7413c9b599"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "kuklenska",
+      "status": "error",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": null,
+      "pages": [],
+      "errors": [],
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "sourceId": "aikido",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.darujme.cz/projekt/1212287",
+          "hash": "cccd60d525bcc83f75da7897ced8b2c296643106fb2988bb1f1a47159d4d97c5"
+        },
+        {
+          "url": "https://www.darujme.cz/vyzvat/1212287",
+          "hash": "5f36d87fa7e145ff659f87899af2fe69a8eab547b2af16afeaa67b0303a37bff"
+        },
+        {
+          "url": "https://www.darujme.cz/darcovska-vyzva",
+          "hash": "6ac6ea1df05af2dd32243a143cc545c6f68b66ea33f91b64fbc4121419af84dc"
+        },
+        {
+          "url": "https://www.darujme.cz/akademie",
+          "hash": "85e5db35f889f735f98111c00cd34c608b1c3231d9a1b6e1d20c571ea8ce6c8b"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "krouzky",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://www.darujme.cz/darujemekrouzky",
+          "hash": "055425e08777b423b71c546cf2736e0704f61c87d12d4ef11eb200da4b94db18"
+        },
+        {
+          "url": "https://www.darujme.cz/vyzvat/1208029",
+          "hash": "5f36d87fa7e145ff659f87899af2fe69a8eab547b2af16afeaa67b0303a37bff"
+        },
+        {
+          "url": "https://www.darujme.cz/darcovska-vyzva",
+          "hash": "6ac6ea1df05af2dd32243a143cc545c6f68b66ea33f91b64fbc4121419af84dc"
+        },
+        {
+          "url": "https://www.darujme.cz/akademie",
+          "hash": "85e5db35f889f735f98111c00cd34c608b1c3231d9a1b6e1d20c571ea8ce6c8b"
+        }
+      ],
+      "errors": [],
+      "error": null
+    },
+    {
+      "sourceId": "cus",
+      "status": "ok",
+      "attemptedAt": "2026-10-04T15:51:51+00:00",
+      "lastSuccess": "2026-10-04T15:51:51+00:00",
+      "pages": [
+        {
+          "url": "https://sck.cuscz.cz/",
+          "hash": "bf9dc7a951891d3247750436a9e8175c70f3e6a280963a13aebf0fc36035c8d8"
+        },
+        {
+          "url": "https://sck.cuscz.cz/2026/09/30/ministr-stastny-chysta-masivni-investici-do-dostupnych-hrist",
+          "hash": "cb1ba2410d619e646d161b9a8bb66cd87f96c6c0b8f62d5ff5b46abb82ef1d94"
+        }
+      ],
+      "errors": [],
+      "error": null
+    }
+  ],
+  "runs": [
+    {
+      "at": "2026-10-04T15:51:51+00:00",
+      "sources": 30,
+      "ok": 24,
+      "failed": 6,
+      "pages": 81,
+      "signals": 35
+    }
+  ],
+  "lastRun": {
+    "at": "2026-10-04T15:51:51+00:00",
+    "sources": 30,
+    "ok": 24,
+    "failed": 6,
+    "pages": 81,
+    "signals": 35
+  }
+}

@@ -1,0 +1,57 @@
+name: Daily radar and Pages
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+      timezone: Europe/Prague
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: sportfund-production
+  cancel-in-progress: false
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate and test
+        run: |
+          python3 -m unittest discover -s scripts -p 'test_*.py' -v
+          python3 scripts/validate.py
+          node --check app.js
+      - name: Scan public sources
+        run: python3 scripts/crawl.py
+      - name: Validate collected data
+        run: python3 scripts/validate.py
+      - name: Preserve radar history
+        run: |
+          git config user.name "SportFund Radar"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/radar.json
+          if ! git diff --cached --quiet; then
+            git commit -m "data: daily public-source radar update"
+            git push
+          fi
+      - name: Package static website
+        run: python3 scripts/package.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+  deploy:
+    needs: radar
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+

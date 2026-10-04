@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="cs">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="SportFund Radar: možnosti financování, partnerství a nové nápady pro hokej ve Vlašimi.">
+<meta name="theme-color" content="#102d28">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'none'">
+<title>Možnosti pro hokej Vlašim · SportFund Radar</title>
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./styles.css?v=2"><script src="./app.js?v=2" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Přejít na obsah</a>
+<aside class="sidebar">
+<a class="brand" href="#prehled" aria-label="SportFund Radar – úvod"><span class="brand-symbol" aria-hidden="true">◎</span><span>SportFund<strong>RADAR</strong></span></a>
+<div class="workspace-label">VÁŠ SPORT. JEHO MOŽNOSTI.</div>
+<nav aria-label="Hlavní navigace">
+<a href="#prehled" class="nav-link active"><span>◫</span>Přehled radaru</a>
+<a href="#prilezitosti" class="nav-link"><span>↗</span>Všechny příležitosti <b id="nav-count">—</b></a>
+<a href="#partneri" class="nav-link"><span>◇</span>Partneři a region</a>
+<a href="#inspirace" class="nav-link"><span>✧</span>Inspirace odjinud</a>
+<a href="#vyber" class="nav-link"><span>☆</span>Můj výběr <b id="saved-count">0</b></a>
+<div class="nav-divider"></div>
+<a href="#metodika" class="nav-link"><span>◎</span>Jak radar pracuje</a>
+<a href="#zdroje" class="nav-link"><span>≡</span>Zdroje a historie</a>
+</nav>
+<div class="sidebar-bottom"><span class="small-dot"></span> Fokus: hokej Vlašim<p>Region 30–40 km<br>Inspirace z celé republiky</p><span class="demo-label">VEŘEJNÝ PILOT · 01</span></div>
+</aside>
+<div class="shell">
+<header class="topbar"><span>Financování sportu <span class="slash">/</span> <strong>Vlašim</strong></span><a href="#metodika" class="top-link">Poznejte svůj radar <span>↗</span></a></header>
+<main id="main">
+<section id="prehled" class="intro">
+<div><div class="eyebrow">PŘÍLEŽITOSTI, KTERÉ POSOUVAJÍ HOKEJ</div><h1>Možnosti pro<br>hokej <span>Vlašim</span><span class="title-dot">.</span></h1><p class="lead">Méně hledání. Více času na ledě.<br>Dotace, partneři a nápady na jednom místě.</p></div>
+<div class="intro-status"><span class="pill"><span class="small-dot"></span> SportFund Radar · pilot</span><p id="freshness">Načítám veřejné zdroje…</p><a href="#zdroje" class="text-link">Průhledná data i metodika ↗</a></div>
+</section>
+<div id="load-error" class="notice" hidden></div>
+<section class="hero" aria-labelledby="hero-title">
+<div class="hero-copy"><div class="eyebrow">DOBRÝ DALŠÍ KROK</div><h2 id="hero-title">Malý projekt.<br>Velká šance pro děti.</h2><p id="hero-description">Nadace, firmy i komunita mohou pomoci dostat více dětí na led. Začněte příležitostí, která odpovídá vašim možnostem.</p><button class="button light" id="hero-action" disabled>Prohlédnout doporučení <span>↗</span></button><span class="hero-note">Priorita je doporučení, ne pravděpodobnost získání podpory.</span></div>
+<div class="radar-art" aria-hidden="true"><div class="radar-grid"><i class="ring r1"></i><i class="ring r2"></i><i class="ring r3"></i><i class="radar-line"></i><i class="radar-line second"></i><i class="sweep"></i><span class="radar-center">V</span><b class="blip b1"></b><b class="blip b2"></b><b class="blip b3"></b></div><span class="radar-tag t1">NADACE & GRANTY</span><span class="radar-tag t2">REGIONÁLNÍ PARTNEŘI</span><span class="radar-tag t3">NOVÉ NÁPADY</span><span class="radar-caption">ŠIRŠÍ ZÁBĚR. MÍSTNÍ DOPAD.</span></div>
+</section>
+<section class="metrics" aria-label="Přehled v číslech">
+<article class="metric"><span>Možnosti v radaru</span><strong id="metric-total">—</strong><small>Včetně nápadů a dalších ročníků</small></article>
+<article class="metric"><span>Otevřené programy</span><strong id="metric-open">—</strong><small>Způsobilost se posuzuje individuálně</small></article>
+<article class="metric"><span>Blízké termíny</span><strong id="metric-deadlines">—</strong><small>V následujících 45 dnech</small></article>
+<article class="metric accent"><span>Potenciál otevřených projektů <b>ODHAD</b></span><strong id="metric-potential">—</strong><small>Nejde o garantované peníze</small></article>
+</section>
+<div class="potential-note" id="potential-note"></div>
+<section id="prilezitosti" class="section">
+<div class="section-heading"><div><div class="eyebrow">OD NÁPADU K DALŠÍMU KROKU</div><h2>Váš přehled příležitostí</h2></div><span id="result-count" class="muted"></span></div>
+<div class="toolbar">
+<div class="tabs" aria-label="Zobrazení příležitostí"><button data-filter="all" class="tab selected" aria-pressed="true">Všechny</button><button data-filter="action" class="tab" aria-pressed="false">Řešit teď</button><button data-filter="watch" class="tab" aria-pressed="false">Hlídáme</button><button data-filter="idea" class="tab" aria-pressed="false">Nápady</button><button data-filter="archive" class="tab" aria-pressed="false">Historie</button></div>
+<div class="search-row"><label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Najít příležitost…" aria-label="Najít příležitost"></label><label class="sort"><span class="sr-only">Řazení</span><select id="sort"><option value="score">Podle priority</option><option value="deadline">Podle termínu</option><option value="newest">Nejnovější nálezy</option></select></label></div>
+</div>
+<div id="cards" class="cards"><div class="empty">Načítám příležitosti…</div></div>
+<button id="show-more" class="button outline more" hidden>Zobrazit další příležitosti</button>
+</section>
+<section id="partneri" class="section">
+<div class="section-heading"><div><div class="eyebrow">PŘÍLEŽITOSTI ZA ROHEM</div><h2>Silný region. Správná partnerství.</h2></div><span class="pill pale">Vlašim · Benešov · okolí</span></div>
+<div class="region-layout"><div class="region-panel"><div class="mini-map" aria-hidden="true"><div class="map-orbit"></div><span class="map-place v">VLAŠIM <i></i></span><span class="map-place b">Benešov <i></i></span><span class="map-place s">Okolí 30–40 km <i></i></span><span class="map-road"></span></div><h3>Místní znalost má hodnotu.</h3><p>Vycházíme z vazeb na region a doloženého zájmu o sport. U velkých firem hledáme i celostátně.</p><small>Schéma oblasti, nikoli přesná mapa. U kandidátů nejdříve ověřujeme dosavadní vztah.</small></div><div><h3 class="subheading">Už v příběhu vlašimského hokeje</h3><p class="muted">Tyto organizace neprezentujeme jako nové kontakty.</p><div id="partners" class="partner-list"></div></div></div>
+<div class="section-heading compact"><h3>Koho a jak prověřit dál</h3><span class="muted">Tipy na spolupráci, nikoli příslib podpory</span></div><div id="company-cards" class="cards"></div>
+</section>
+<section id="inspirace" class="section">
+<div class="section-heading"><div><div class="eyebrow">DOBRÉ NÁPADY NEMAJÍ HRANICE SPORTU</div><h2>„Tohle by šlo zkusit i ve Vlašimi.“</h2></div></div>
+<p class="section-lead">Hokejové kluby, basketbal, fotbal i další sporty. Sledujeme principy, které mohou fungovat i na vašem ledě.</p><div id="inspiration-cards" class="cards"></div>
+</section>
+<section id="vyber" class="section selection-section">
+<div class="section-heading"><div><div class="eyebrow">VÁŠ PLÁN DO DALŠÍ SCHŮZKY</div><h2>Můj výběr</h2></div><button id="export" class="button outline">Stáhnout plán ↓</button></div><p class="muted">Výběr a checklist zůstávají v tomto prohlížeči. Žádosti ani e-maily se neodesílají.</p><div id="saved" class="cards"></div>
+</section>
+<section id="metodika" class="method section">
+<div class="method-top"><div><div class="eyebrow">VÁŠ PŘEHLED O CELÉM EKOSYSTÉMU</div><h2>Jak radar pracuje</h2><p>Nečeká jen na další dotaci.<br>Propojuje veřejné zdroje s tím, co dává smysl pro hokej ve Vlašimi.</p></div><div class="schedule"><strong>06:00</strong><span>Každý den · Europe/Prague</span><small>GitHub Actions · skutečný stav běhů níže</small></div></div>
+<div class="method-grid">
+<article><span class="step">01</span><h3>Hledá v širokém záběru</h3><p>NSA, město, kraj, Český hokej, MAS, DDM, Erasmus+, nadace, pojišťovny, firemní programy a soutěže. Provoz, investice, výstroj, trenéři i dostupnost sportu.</p></article>
+<article><span class="step">02</span><h3>Zná místní souvislosti</h3><p>Sleduje vybrané regionální firmy, zdroje o partnerech a již využité programy. Rozlišuje dosavadní podporu, navazující spolupráci a neověřený kontakt.</p></article>
+<article><span class="step">03</span><h3>Učí se z jiných sportů</h3><p>Prochází vybrané hokejové a sportovní zdroje z ČR. Hledá granty, firemní podporu i dárcovství a vytváří náměty přenositelné do Vlašimi.</p></article>
+<article><span class="step">04</span><h3>Třídí a vysvětluje</h3><p>Každá připravená možnost má prioritu A/B/C, důvod relevance, náročnost a další krok. První pilot používá pravidlové bodování bez placeného AI modelu.</p></article>
+<article><span class="step">05</span><h3>Pamatuje si změny</h3><p>Uchovává první nález, síťové kontroly, změny obsahu a uplynulé termíny. Sleduje další ročníky; datum kontroly stránky nezaměňuje za ověření podmínek.</p></article>
+<article><span class="step">06</span><h3>Pomůže začít</h3><p>„Chci tuto příležitost“ připraví osobní výběr a checklist. Export poslouží na schůzce. Navazující generování žádostí lze doplnit později.</p></article>
+</div>
+<details class="method-detail"><summary>Co přesně umí tento pilot a jak číst skóre</summary><div><p><strong>Skóre je priorita, nikoli procento úspěchu.</strong> Připravené karty mají redakčně nastavené body podle vztahu k hokeji, regionu a použitelnosti. A = 80–100, B = 60–79, C = méně než 60. Automatické podněty používají klíčová slova a kontext zdroje, maximálně 79 bodů.</p><p><strong>Denní automatika:</strong> kontroluje uvedený seznam zdrojů a nejvýše čtyři související odkazy na každém z nich. Respektuje robots.txt. Nefungující a blokované zdroje přiznává. PDF, stránky vyžadující přihlášení a obsah načítaný pouze JavaScriptem vyžadují ruční doplnění.</p><p><strong>Rozsah:</strong> pilot prochází vybranou síť zdrojů; nezaručuje nalezení všech možností v ČR. Nová finanční částka, způsobilost nebo termín se automaticky nevydává za ověřený údaj. Automatické podněty slouží k dalšímu prověření.</p><p><strong>Odhady:</strong> jsou pracovní scénáře bez znalosti neveřejného rozpočtu a členské základny. Nezahrnují již získané peníze, příspěvky rodinám ani neznámé částky. Různé projekty se mohou překrývat a nelze je bez kontroly sčítat.</p><p><strong>Plánování:</strong> denní běh má plánovaný čas 06:00 v Praze včetně letního času. GitHub může běh zpozdit; u neaktivního veřejného repozitáře může plán pozastavit. Rozhodující je poslední skutečný běh, nikoli samotné nastavení.</p></div></details>
+</section>
+<section id="zdroje" class="section">
+<div class="section-heading"><div><div class="eyebrow">DŮVĚRA ZAČÍNÁ U ZDROJE</div><h2>Zdroje, nálezy a historie</h2></div><a href="https://github.com/HonzaKud/sportfund-radar-vlasim/actions" target="_blank" rel="noopener" class="text-link">Otevřít denní běhy ↗</a></div>
+<div id="run-status" class="run-status">Automatický běh zatím nepotvrzen.</div>
+<details class="source-disclosure"><summary><span>Prohlédnout sledované zdroje</span><b id="source-count">30</b></summary><div id="sources" class="source-list"></div></details>
+<h3 class="subheading">Nové automatické podněty</h3><p class="muted">Výsledky procházení zdrojů. Mohou zahrnovat starší články; nejde automaticky o otevřené výzvy.</p><div id="signals" class="signal-list"></div><button id="signals-more" class="button outline more" hidden>Zobrazit další podněty</button>
+<details class="source-disclosure"><summary>Historie automatických běhů</summary><div id="runs"></div></details>
+</section>
+</main>
+<footer><a class="footer-brand" href="#prehled">SportFund <strong>Radar</strong></a><span>Nezávislý pilot pro hokej Vlašim · Bez klubového loga</span><a href="https://github.com/HonzaKud/sportfund-radar-vlasim" target="_blank" rel="noopener">O projektu ↗</a></footer>
+</div>
+<dialog id="detail"><div id="detail-body"></div></dialog><div id="toast" role="status" aria-live="polite"></div>
+<noscript><p class="notice">Pro interaktivní přehled zapni JavaScript. <a href="./data/radar.json">Veřejná data jsou dostupná zde.</a></p></noscript>
+</body></html>
+

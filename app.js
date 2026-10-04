@@ -32,7 +32,7 @@ function filtered() {
  return data.opportunities.filter(item=>{
   const state=currentStatus(item);
   const matches=filter==="all" || (filter==="action"&&["open","verify"].includes(state)) || (filter==="watch"&&state==="watch") || (filter==="idea"&&state==="idea") || (filter==="archive"&&["awarded","closed"].includes(state));
-  return matches && (!query || [item.title,item.why,item.fact,item.category].join(" ").toLocaleLowerCase("cs").includes(query));
+  return matches && (!query || [item.title,item.why,item.fact,item.category,item.next,...data.sources.filter(source=>item.sourceIds.includes(source.id)).map(source=>source.name)].join(" ").toLocaleLowerCase("cs").includes(query));
  }).sort((a,b)=>{
   if ($("#sort").value==="deadline") return (a.deadline||"9999").localeCompare(b.deadline||"9999");
   if ($("#sort").value==="newest") return b.firstFound.localeCompare(a.firstFound)||b.score-a.score;

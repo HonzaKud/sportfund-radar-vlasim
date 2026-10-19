@@ -3,7 +3,7 @@
   "brand": "SportFund Radar",
   "title": "Možnosti pro hokej Vlašim",
   "asOf": "2026-10-04",
-  "generatedAt": "2026-10-18T08:27:46+00:00",
+  "generatedAt": "2026-10-19T09:29:05+00:00",
   "method": "Pravidlové třídění bez placeného AI API",
   "sources": [
     {
@@ -256,7 +256,7 @@
       "deadline": "2026-11-12",
       "deadlineLabel": "Uzávěrka žádostí",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -291,7 +291,7 @@
       "deadline": "2026-11-10",
       "deadlineLabel": "Konec hlasování, nikoli registrace",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -327,7 +327,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -363,7 +363,7 @@
       "deadline": null,
       "deadlineLabel": "Další ročník nepotvrzen",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-17T08:10:57+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -522,6 +522,10 @@
         {
           "date": "2026-10-18T08:27:46+00:00",
           "event": "Vlašim — historie partnerů: změna obsahu, ověřit podmínky."
+        },
+        {
+          "date": "2026-10-19T09:29:05+00:00",
+          "event": "Vlašim — historie partnerů: změna obsahu, ověřit podmínky."
         }
       ],
       "existing": true,
@@ -597,7 +601,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -643,7 +647,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -675,6 +679,10 @@
         {
           "date": "2026-10-18T08:27:46+00:00",
           "event": "Hokej Vlašim: změna obsahu, ověřit podmínky."
+        },
+        {
+          "date": "2026-10-19T09:29:05+00:00",
+          "event": "Hokej Vlašim: změna obsahu, ověřit podmínky."
         }
       ],
       "needsReview": true
@@ -692,7 +700,7 @@
       "deadline": "2026-12-31",
       "deadlineLabel": "Online podání VZP",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -733,7 +741,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -768,7 +776,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -913,6 +921,10 @@
         {
           "date": "2026-10-18T08:27:46+00:00",
           "event": "Vlašim — historie partnerů: změna obsahu, ověřit podmínky."
+        },
+        {
+          "date": "2026-10-19T09:29:05+00:00",
+          "event": "Vlašim — historie partnerů: změna obsahu, ověřit podmínky."
         }
       ],
       "existing": true,
@@ -931,7 +943,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-17T08:10:57+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -994,7 +1006,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -1041,7 +1053,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -1114,7 +1126,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -1201,6 +1213,10 @@
         {
           "date": "2026-10-18T08:27:46+00:00",
           "event": "Vlašim — historie partnerů: změna obsahu, ověřit podmínky."
+        },
+        {
+          "date": "2026-10-19T09:29:05+00:00",
+          "event": "Vlašim — historie partnerů: změna obsahu, ověřit podmínky."
         }
       ],
       "company": "Sellier & Bellot",
@@ -1262,7 +1278,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -1302,7 +1318,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -1379,6 +1395,10 @@
         {
           "date": "2026-10-18T08:27:46+00:00",
           "event": "Hokej Vlašim: změna obsahu, ověřit podmínky."
+        },
+        {
+          "date": "2026-10-19T09:29:05+00:00",
+          "event": "Hokej Vlašim: změna obsahu, ověřit podmínky."
         }
       ],
       "needsReview": true
@@ -1401,7 +1421,7 @@
       "deadline": null,
       "deadlineLabel": "Termín ověřit",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": false,
@@ -1433,6 +1453,10 @@
         {
           "date": "2026-10-18T08:27:46+00:00",
           "event": "Hokej Vlašim: změna obsahu, ověřit podmínky."
+        },
+        {
+          "date": "2026-10-19T09:29:05+00:00",
+          "event": "Hokej Vlašim: změna obsahu, ověřit podmínky."
         }
       ],
       "needsReview": true
@@ -1450,7 +1474,7 @@
       "deadline": "2026-02-02",
       "deadlineLabel": "Ukončený příjem žádostí",
       "firstFound": "2026-10-04",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "verifiedAt": "2026-10-04",
       "evidence": "Ověřený zdroj; vhodnost je odhad",
       "recurring": true,
@@ -1504,7 +1528,7 @@
       "url": "https://rytirikladno.cz/article/podporte-nase-nejmensi-rytire-hlasujte-v-projektu-puky-pomahaji",
       "sourceId": "kladno",
       "firstFound": "2026-10-16T08:39:55+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 70,
       "idea": "Tohle by šlo zkusit i ve Vlašimi: ověřit mechanismus podpory, příjemce a podmínky; potom navrhnout obdobný mládežnický projekt.",
@@ -1556,7 +1580,7 @@
       "url": "https://www.masblanik.cz/exkurze_a_partnerstvi",
       "sourceId": "mas",
       "firstFound": "2026-10-07T10:45:21+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 64,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1584,7 +1608,7 @@
       "url": "https://www.ivlasim.cz/firma/kraj-blanickych-rytiru-z-s",
       "sourceId": "historie-partneru",
       "firstFound": "2026-10-04T16:01:19+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 64,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1597,7 +1621,7 @@
       "url": "https://www.ivlasim.cz/firma/cesky-svaz-ochrancu-prirody-vlasim",
       "sourceId": "historie-partneru",
       "firstFound": "2026-10-04T16:01:19+00:00",
-      "lastChecked": "2026-10-17T08:10:57+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 64,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1610,7 +1634,7 @@
       "url": "https://hcvlasim.cz/text/vystroj",
       "sourceId": "vlasim",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 79,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1625,7 +1649,7 @@
       "url": "https://hcvlasim.cz/text/svedsko",
       "sourceId": "vlasim",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 79,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1640,7 +1664,7 @@
       "url": "https://hcvlasim.cz/text/svedsko-2",
       "sourceId": "vlasim",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 79,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1668,7 +1692,7 @@
       "url": "https://rytirikladno.cz/partners",
       "sourceId": "kladno",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 70,
       "idea": "Tohle by šlo zkusit i ve Vlašimi: ověřit mechanismus podpory, příjemce a podmínky; potom navrhnout obdobný mládežnický projekt.",
@@ -1681,7 +1705,7 @@
       "url": "https://rytirikladno.cz/text/partnerutkani",
       "sourceId": "kladno",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 70,
       "idea": "Tohle by šlo zkusit i ve Vlašimi: ověřit mechanismus podpory, příjemce a podmínky; potom navrhnout obdobný mládežnický projekt.",
@@ -1694,7 +1718,7 @@
       "url": "https://www.masblanik.cz/podporene-projekty",
       "sourceId": "mas",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 64,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1710,7 +1734,7 @@
       "url": "https://www.ivlasim.cz/firma/montessori-vlasim-z-s",
       "sourceId": "historie-partneru",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 64,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1723,7 +1747,7 @@
       "url": "https://www.ivlasim.cz/firma/vinoteka-miluse",
       "sourceId": "historie-partneru",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-16T08:39:55+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 64,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1751,7 +1775,7 @@
       "url": "https://nsa.gov.cz/dotace-investicni",
       "sourceId": "nsa",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-17T08:10:57+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1766,7 +1790,7 @@
       "url": "https://nsa.gov.cz/dotace-neinvesticni",
       "sourceId": "nsa",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-17T08:10:57+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1781,7 +1805,7 @@
       "url": "https://nsa.gov.cz/dotace-neinvesticni-parasport",
       "sourceId": "nsa",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-17T08:10:57+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1796,7 +1820,7 @@
       "url": "https://nsa.gov.cz/praha-hostila-mistrovstvi-sveta-zen-v-softballu-ceske-reprezentantky-smeruji-k-olympijske-vyzve-v-los-angeles-2028",
       "sourceId": "nsa",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-17T08:10:57+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1811,7 +1835,7 @@
       "url": "https://www.dzs.cz/en/projects-and-grants",
       "sourceId": "erasmus",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1826,7 +1850,7 @@
       "url": "https://www.dzs.cz/en/program/erasmus/projects-and-grants",
       "sourceId": "erasmus",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1841,7 +1865,7 @@
       "url": "https://www.dzs.cz/en/node/1295",
       "sourceId": "erasmus",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1856,7 +1880,7 @@
       "url": "https://www.dzs.cz/en/node/1301",
       "sourceId": "erasmus",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1871,7 +1895,7 @@
       "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni",
       "sourceId": "cez",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1884,7 +1908,7 @@
       "url": "https://www.nadacecez.cz/cs/o-nadaci",
       "sourceId": "cez",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1899,7 +1923,7 @@
       "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/zamestnanecke-granty-110067",
       "sourceId": "cez",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1912,7 +1936,7 @@
       "url": "https://www.nadacecez.cz/cs/kde-pomahame",
       "sourceId": "cez-novinky",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1925,7 +1949,7 @@
       "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/oranzove-hriste-110045",
       "sourceId": "cez-novinky",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1951,7 +1975,7 @@
       "url": "https://www.nadacevia.cz/nabidka-programu/misto-kde-zijeme/projekty",
       "sourceId": "via",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -1964,7 +1988,7 @@
       "url": "https://www.niersberger.cz/",
       "sourceId": "niersberger",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Prověřit vztah firmy ke sportu a stávajícím partnerům; připravit návrh věcné či finanční spolupráce.",
@@ -1977,7 +2001,7 @@
       "url": "https://www.darujme.cz/darcovska-vyzva",
       "sourceId": "aikido",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 55,
       "idea": "Tohle by šlo zkusit i ve Vlašimi: ověřit mechanismus podpory, příjemce a podmínky; potom navrhnout obdobný mládežnický projekt.",
@@ -2005,7 +2029,7 @@
       "url": "https://www.masblanik.cz/dotacni-poradenstvi",
       "sourceId": "mas",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 44,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -2020,7 +2044,7 @@
       "url": "https://www.masblanik.cz/podpora-cinnosti-mas-blanik",
       "sourceId": "mas",
       "firstFound": "2026-10-04T15:55:22+00:00",
-      "lastChecked": "2026-10-18T08:27:46+00:00",
+      "lastChecked": "2026-10-19T09:29:05+00:00",
       "status": "unreviewed",
       "score": 44,
       "idea": "Ověřit podmínky, aktuální ročník a způsobilost vlašimského hokeje v původním zdroji.",
@@ -2048,9 +2072,9 @@
   "sourceChecks": [
     {
       "sourceId": "nsa",
-      "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-17T08:10:57+00:00",
+      "status": "ok",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://nsa.gov.cz/",
@@ -2074,13 +2098,13 @@
         }
       ],
       "errors": [],
-      "error": "robots.txt disallows or could not be verified"
+      "error": null
     },
     {
       "sourceId": "nsa-klub",
-      "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-17T08:10:57+00:00",
+      "status": "ok",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://nsa.gov.cz/dotace/vyzva-8-2026-muj-klub-2026",
@@ -2100,12 +2124,12 @@
         }
       ],
       "errors": [],
-      "error": "robots.txt disallows or could not be verified"
+      "error": null
     },
     {
       "sourceId": "mesto",
       "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
       "lastSuccess": null,
       "pages": [],
       "errors": [],
@@ -2114,7 +2138,7 @@
     {
       "sourceId": "kraj",
       "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
       "lastSuccess": "2026-10-04T15:51:51+00:00",
       "pages": [
         {
@@ -2140,8 +2164,8 @@
     {
       "sourceId": "hokej",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://ceskyhokej.cz/rozcestnik-dotace",
@@ -2154,8 +2178,8 @@
     {
       "sourceId": "nabor",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://ceskyhokej.cz/pojd-hrat-hokej",
@@ -2168,8 +2192,8 @@
     {
       "sourceId": "treneri",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://ceskyhokej.cz/sportovni-strediska",
@@ -2182,8 +2206,8 @@
     {
       "sourceId": "mas",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.masblanik.cz/",
@@ -2212,7 +2236,7 @@
     {
       "sourceId": "ddm",
       "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
       "lastSuccess": null,
       "pages": [],
       "errors": [],
@@ -2221,7 +2245,7 @@
     {
       "sourceId": "ddm-partneri",
       "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
       "lastSuccess": null,
       "pages": [],
       "errors": [],
@@ -2230,8 +2254,8 @@
     {
       "sourceId": "erasmus",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.dzs.cz/en/node/1559",
@@ -2260,8 +2284,8 @@
     {
       "sourceId": "cez",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.nadacecez.cz/cs/vyhlasovana-grantova-rizeni/podpora-regionu-110046",
@@ -2290,8 +2314,8 @@
     {
       "sourceId": "cez-novinky",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.nadacecez.cz/",
@@ -2320,8 +2344,8 @@
     {
       "sourceId": "via",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.nadacevia.cz/nabidka-programu/misto-kde-zijeme",
@@ -2338,8 +2362,8 @@
     {
       "sourceId": "vzp",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.vzp.cz/pojistenci/vyhody-a-prispevky/odmena-za-prevenci/pohyb-a-dentalni-hygiena/deti",
@@ -2352,8 +2376,8 @@
     {
       "sourceId": "kaufland",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.k-hockey.cz/pukypomahaji",
@@ -2366,8 +2390,8 @@
     {
       "sourceId": "kaufland-2026",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://spolecnost.kaufland.cz/pro-novinare/newsroom/2026/zari/kaufland-startuje-4.-rocnik-projektu-puky-pomahaji.-o-rozdeleni-11-5-milionu-korun-opet-rozhodnou-zakaznici",
@@ -2380,12 +2404,12 @@
     {
       "sourceId": "vlasim",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://hcvlasim.cz/",
-          "hash": "d2edd7f0f4e0a33437b6fb1a5431a0e2a817d782f7a7d29c807f0c6f43d43e75"
+          "hash": "a6fb939a3efab75d0a0d0e79a50134ffc17ed1f6685fce9e1b8a5b3745ac44db"
         },
         {
           "url": "https://hcvlasim.cz/text/vystroj",
@@ -2410,8 +2434,8 @@
     {
       "sourceId": "vlasim-klub",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://hcvlasim.cz/text/klub2026",
@@ -2440,8 +2464,8 @@
     {
       "sourceId": "vlasim-erasmus",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://hcvlasim.cz/text/complexcore",
@@ -2470,28 +2494,28 @@
     {
       "sourceId": "historie-partneru",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.ivlasim.cz/index.php/hokejova-sezona-202324-klepe-na-dvere",
-          "hash": "7b17dc1074a7016e90494fe3d213230a0a6937b77313b0e4aa40135920993d00"
+          "hash": "0e4d28968d7614c71d794103110192769a03855e8fb79fcc53a8a4bfaa7218e1"
         },
         {
-          "url": "https://www.ivlasim.cz/firma/charita-vlasim",
-          "hash": "f908236d235418289f865f7cb44c449814e92daf72505d1f86f7a831d6bc6c9c"
-        },
-        {
-          "url": "https://www.ivlasim.cz/firma/hc-rytiri-vlasim",
-          "hash": "95d1970f8a6b0f18a41d43be3e57723718fc86a7cdfc7ab396c37afbd8892c39"
+          "url": "https://www.ivlasim.cz/firma/vinoteka-miluse",
+          "hash": "89d9b976657e59aae3ca245191c736a464c72ecfbadfbfa57d73db2600553843"
         },
         {
           "url": "https://www.ivlasim.cz/firma/montessori-vlasim-z-s",
-          "hash": "dfbfb953bae1189d1d94c912036abce971ddfe9b852e8acc5caca5d5139967d0"
+          "hash": "96d8b615347b71e09217aacefb8b6de35213f7cc9403ee496d6890bdf4efdf0f"
+        },
+        {
+          "url": "https://www.ivlasim.cz/firma/cesky-svaz-ochrancu-prirody-vlasim",
+          "hash": "1d7a993b68419d7080dbe029d603e392089c4be2b4653c68e45e639ca18468e3"
         },
         {
           "url": "https://www.ivlasim.cz/firma/kraj-blanickych-rytiru-z-s",
-          "hash": "1b18a89c8c5c2c228a5afe83fd370681a443bcbe655f686bfde597b4ca8413d5"
+          "hash": "2570ff9d9cb2e75e17829085b4a629e99ec87ac23c4c476d705fedbdcfd8d362"
         }
       ],
       "errors": [],
@@ -2500,8 +2524,8 @@
     {
       "sourceId": "niersberger",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.niersberger.cz/sponzorujeme",
@@ -2518,8 +2542,8 @@
     {
       "sourceId": "benea",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.benea-shop.cz/cz/kontakt",
@@ -2532,8 +2556,8 @@
     {
       "sourceId": "fotbal",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.fcsbvlasim.cz/klub/partneri",
@@ -2546,12 +2570,12 @@
     {
       "sourceId": "kladno",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://rytirikladno.cz/",
-          "hash": "5b002fa0f5999bc02d5cb1bf5141bb365bb43eca279bf5f4722976cadcd31d6b"
+          "hash": "ddefa63cd4e4492dbff2156a4fe5d60ccb1c7a1612cb7af9639c10ea1aa6db87"
         },
         {
           "url": "https://rytirikladno.cz/partners",
@@ -2563,7 +2587,7 @@
         },
         {
           "url": "https://rytirikladno.cz/article/podporte-nase-nejmensi-rytire-hlasujte-v-projektu-puky-pomahaji",
-          "hash": "ab1cf9a884a8447312286c7a721cc48df7bd560903347b3ae7a21dd27cb0780a"
+          "hash": "1492936ad575fa5962af06705d59efa3dcce169695372684d15c9dc937362e48"
         }
       ],
       "errors": [],
@@ -2572,7 +2596,7 @@
     {
       "sourceId": "hokej-zpravy",
       "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
       "lastSuccess": "2026-10-16T08:39:55+00:00",
       "pages": [
         {
@@ -2590,7 +2614,7 @@
     {
       "sourceId": "kuklenska",
       "status": "error",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
       "lastSuccess": null,
       "pages": [],
       "errors": [],
@@ -2599,8 +2623,8 @@
     {
       "sourceId": "aikido",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.darujme.cz/projekt/1212287",
@@ -2625,8 +2649,8 @@
     {
       "sourceId": "krouzky",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://www.darujme.cz/darujemekrouzky",
@@ -2651,8 +2675,8 @@
     {
       "sourceId": "cus",
       "status": "ok",
-      "attemptedAt": "2026-10-18T08:27:46+00:00",
-      "lastSuccess": "2026-10-18T08:27:46+00:00",
+      "attemptedAt": "2026-10-19T09:29:05+00:00",
+      "lastSuccess": "2026-10-19T09:29:05+00:00",
       "pages": [
         {
           "url": "https://sck.cuscz.cz/",
@@ -2807,14 +2831,22 @@
       "failed": 8,
       "pages": 65,
       "signals": 39
+    },
+    {
+      "at": "2026-10-19T09:29:05+00:00",
+      "sources": 30,
+      "ok": 24,
+      "failed": 6,
+      "pages": 74,
+      "signals": 39
     }
   ],
   "lastRun": {
-    "at": "2026-10-18T08:27:46+00:00",
+    "at": "2026-10-19T09:29:05+00:00",
     "sources": 30,
-    "ok": 22,
-    "failed": 8,
-    "pages": 65,
+    "ok": 24,
+    "failed": 6,
+    "pages": 74,
     "signals": 39
   }
 }
